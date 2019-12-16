@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asistente Protocolario", "prot3\Asistente Protocolario.csproj", "{E3884E5A-5485-4B23-B538-2D5F9F5209CA}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SetupAsistente", "SetupAsistente\SetupAsistente.aiproj", "{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3884E5A-5485-4B23-B538-2D5F9F5209CA}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{E3884E5A-5485-4B23-B538-2D5F9F5209CA}.All|Any CPU.Build.0 = Release|Any CPU
+		{E3884E5A-5485-4B23-B538-2D5F9F5209CA}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E3884E5A-5485-4B23-B538-2D5F9F5209CA}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E3884E5A-5485-4B23-B538-2D5F9F5209CA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3884E5A-5485-4B23-B538-2D5F9F5209CA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}.All|Any CPU.ActiveCfg = DefaultBuild
+		{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}.All|Any CPU.Build.0 = DefaultBuild
+		{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}.Debug|Any CPU.Build.0 = DefaultBuild
+		{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{F88CA2B6-D0A8-4AD9-B51D-E67189BFB582}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9815577-2A17-44A2-A878-A300709919AD}
+	EndGlobalSection
+EndGlobal

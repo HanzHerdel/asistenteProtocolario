@@ -1,0 +1,10 @@
+editar boton de formato.
+GetFormattedPageCount
+//path de diccionario por si se vuelve a desconfigurar
+-> en form 1 designer buscar spellchecker
+ 	 spellCheckerOpenOfficeDictionary1.DictionaryPath = System.AppDomain.CurrentDomain.BaseDirectory + "es_ES.dic";// "C:\\Program Files (x86)\\Microsoft Visual Studio\\Community\\Common7\\IDE\\es_ES.dic";
+         spellCheckerOpenOfficeDictionary1.Encoding = System.Text.Encoding.GetEncoding(28591);
+         spellCheckerOpenOfficeDictionary1.GrammarPath = System.AppDomain.CurrentDomain.BaseDirectory + "es_ES.aff";// "C:\\Program Files (x86)\\Microsoft Visual Studio\\Community\\Common7\\IDE\\es_ES.aff";
+
+Ver al momento de realizar impresiones
+https://www.devexpress.com/Support/Center/Question/Details/T226731/how-to-print-specific-page-from-richedit-via-code

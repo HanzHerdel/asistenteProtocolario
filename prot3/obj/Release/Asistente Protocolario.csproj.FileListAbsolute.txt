@@ -1,0 +1,129 @@
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\Asistente Protocolario.lnk
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es_ES.aff
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es_ES.dic
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\Asistente Protocolario.exe.config
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\Asistente Protocolario.exe.manifest
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\Asistente Protocolario.application
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\Asistente Protocolario.exe
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\Asistente Protocolario.pdb
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\Asistente Protocolario.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es-ES\Asistente Protocolario.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.BonusSkins.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Images.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Office.v18.1.Core.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Printing.v18.1.Core.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Utils.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraBars.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraEditors.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraLayout.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraSpellChecker.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraGrid.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Office.v18.1.Core.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Printing.v18.1.Core.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Utils.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraBars.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraEditors.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraLayout.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraSpellChecker.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraGrid.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.csprojAssemblyReference.cache
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.agregarComp.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.dialogForm.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.Encabezado.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.FormPrincipal.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\AsistenteProtocolario.Properties.Resources.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.Encabezado.es.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.FormPrincipal.es-ES.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\prot3.FormPrincipal.es.resources
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.csproj.GenerateResource.cache
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.exe.licenses
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.csproj.CoreCompileInputs.cache
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\es\Asistente Protocolario.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\es-ES\Asistente Protocolario.resources.dll
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.exe.manifest
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.application
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.csproj.CopyComplete
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.exe
+C:\Users\FernandoHanz\source\repos\prot3 - Copy - Copy\prot3\obj\Release\Asistente Protocolario.pdb
